@@ -52,7 +52,7 @@ Css flexbox and mobile responsiveness
 
 ## Author
 
-- Website - [Eniola Soyemi](https://soyemi88.github.io/Enioa-site/)
+- Website - [Eniola Soyemi](https://soyemi88.github.io/Eniola-site/)
 - Frontend Mentor - [@soyemi88](https://www.frontendmentor.io/profile/soyemi88)
 - Twitter - [@soyemzee](https://www.twitter.com/soyemzee)
 
